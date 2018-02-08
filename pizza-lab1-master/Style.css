@@ -1,0 +1,12 @@
+.page-header li a{
+	font-size: 200%;
+	color:red;
+	padding-left: 50px;
+	padding-right: 150px;
+}
+
+.menu p{
+	color:red;
+	padding-bottom: 20px;
+	font-size:150%;
+}
